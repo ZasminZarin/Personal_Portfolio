@@ -1,0 +1,108 @@
+body{
+  font-family: 'Roboto Condensed', sans-serif;
+}
+p{
+  color: rgb(1, 2, 22);
+}
+.section{
+  height: 500px;
+  padding-bottom: 10px;
+  width:80%;
+  margin: auto;
+}
+.half-width{
+  float: left;
+  width: 40%;
+  margin-left: 5%;
+  padding-left: 5%;
+}
+h1{
+  font-size: 45px;
+}
+#Intro-color{
+  color: rgb(96, 65, 209);
+}
+#name-color{
+  color: rgb(33, 158, 33);
+}
+img{
+  width: 100%;
+}
+.link-button{
+ text-decoration: none;
+ background-image: linear-gradient(rgb(82, 46, 212), rgb(23, 196, 60));
+ padding: 10px 30px;
+ border-radius: 5px;
+ color: white;
+ font-weight: 700;
+}
+.link-button2{
+  text-decoration: none;
+  background-image: linear-gradient(rgb(110, 105, 175), rgb(79, 148, 94));
+  padding: 10px 30px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 700;
+ }
+ h2{
+   font-size: 35px;
+   color: rgb(130, 72, 184);
+ }
+.centre{
+  font-size: 30px;
+  text-align: center;
+  padding-bottom: 25px;
+}
+.Latest{
+ color: rgb(77, 153, 77);
+}
+.WP{
+ color: rgb(11, 11, 56);
+}
+.one-third{
+  float: left;
+  width: 30%;
+  height: 60%;
+  margin-right: 1%;
+  box-shadow: 1px 1px 10px rgb(75, 61, 61) ;
+  border-radius: 5%;
+  background-color: cornsilk;
+  padding: 1%;
+}
+.image{
+  width: 90%;
+  height: 60%;
+}
+h4{
+  color: rgb(58, 47, 82);
+}
+.detail{
+  font-size: smaller;
+}
+#ending{
+  width: 750px;
+  height: 180px;
+  margin: auto ;
+  margin-top: 100px;
+  background-image: url(Image/Group_33094_1.png);
+  background-size: cover;
+}
+#end-half{
+  float: left;
+  font-size: 25px;
+  font-weight: 700;
+  color: white;
+  padding-left: 10%;
+  padding-top: 2%;
+}
+#button{
+  height: 50px;
+  width: 100px;
+  padding: 5px 2px;
+  border-radius: 10%;
+  background-image: linear-gradient(rgb(60, 15, 221), white);
+}
+#end-half2{
+  margin-left: 70%;
+  padding-top: 8%;
+}
